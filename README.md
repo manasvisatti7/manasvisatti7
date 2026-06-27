@@ -65,10 +65,23 @@ A machine learning project that classifies music genres and delivers personalize
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manasvisatti7&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvisatti7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manasvisatti7&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *https://www.linkedin.com/in/manasvi-satti-3a66a6394/*
+- 💼 LinkedIn: [Manasvi Satti](https://www.linkedin.com/in/manasvi-satti-3a66a6394/)
 
 ---
 
-⭐ *"Building technology that solves real-world problems, one project at a time."*
+⭐ "Learning continuously. Building intentionally. Creating technology that makes a difference."
