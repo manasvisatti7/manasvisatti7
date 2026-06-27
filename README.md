@@ -40,51 +40,11 @@ An AI-powered volunteer coordination platform that intelligently connects volunt
 A machine learning project that classifies music genres and delivers personalized song recommendations based on user preferences.
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-* Python
-* Java
-* C
-* JavaScript
-* TypeScript
-
-### 🌐 Frontend
-
-* HTML5
-* CSS3
-* React
-
-### ⚙️ Backend
-
-* Node.js
-* FastAPI
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-* Artificial Intelligence
-* Machine Learning
-* Scikit-learn
-* Pandas
-* NumPy
-
-### 🗄️ Database & Backend Services
-
-* Firebase
-
-### ☁️ Deployment
-
-* Vercel
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* VS Code
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nodejs,html,css,firebase,git,github,vscode,vercel,fastapi" />
+</p>
 
 ## 🌱 Currently Building
 
